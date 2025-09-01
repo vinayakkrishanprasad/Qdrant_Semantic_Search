@@ -3,3 +3,4 @@ qdrant-client
 pandas
 numpy
 sentence-transformers
+fastembed
